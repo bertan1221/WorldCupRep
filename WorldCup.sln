@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup", "WorldCup\WorldCup.csproj", "{45C6C268-4740-464C-8467-6101DA72698C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup.Model", "WorldCup.Model\WorldCup.Model.csproj", "{08528006-DEE0-4C77-85D7-D243BAFEA115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup.Data.Model", "WorldCup.Data.Model\WorldCup.Data.Model.csproj", "{1F2DC425-98F1-4F6C-9592-A8F4774870DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup.Data", "WorldCup.Data\WorldCup.Data.csproj", "{8D12F3AA-2BD3-49DC-997E-29139F919C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup.Service", "WorldCup.Service\WorldCup.Service.csproj", "{F91705FC-030B-4287-A52E-6085D03F38C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup.Mapper", "WorldCup.Mapper\WorldCup.Mapper.csproj", "{4DC057D4-28D6-4B93-A979-9E4EC661D303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C6C268-4740-464C-8467-6101DA72698C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C6C268-4740-464C-8467-6101DA72698C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C6C268-4740-464C-8467-6101DA72698C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C6C268-4740-464C-8467-6101DA72698C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08528006-DEE0-4C77-85D7-D243BAFEA115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08528006-DEE0-4C77-85D7-D243BAFEA115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08528006-DEE0-4C77-85D7-D243BAFEA115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08528006-DEE0-4C77-85D7-D243BAFEA115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2DC425-98F1-4F6C-9592-A8F4774870DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2DC425-98F1-4F6C-9592-A8F4774870DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2DC425-98F1-4F6C-9592-A8F4774870DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2DC425-98F1-4F6C-9592-A8F4774870DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D12F3AA-2BD3-49DC-997E-29139F919C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D12F3AA-2BD3-49DC-997E-29139F919C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D12F3AA-2BD3-49DC-997E-29139F919C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D12F3AA-2BD3-49DC-997E-29139F919C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91705FC-030B-4287-A52E-6085D03F38C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91705FC-030B-4287-A52E-6085D03F38C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91705FC-030B-4287-A52E-6085D03F38C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91705FC-030B-4287-A52E-6085D03F38C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC057D4-28D6-4B93-A979-9E4EC661D303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC057D4-28D6-4B93-A979-9E4EC661D303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC057D4-28D6-4B93-A979-9E4EC661D303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC057D4-28D6-4B93-A979-9E4EC661D303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663C0E33-CF5C-4F85-B726-9D874A65737D}
+	EndGlobalSection
+EndGlobal

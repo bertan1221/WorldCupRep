@@ -1,0 +1,5 @@
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Model\bin\Debug\WorldCup.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Model\bin\Debug\WorldCup.Model.pdb
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Model\obj\Debug\WorldCup.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Model\obj\Debug\WorldCup.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Model\obj\Debug\WorldCup.Model.pdb

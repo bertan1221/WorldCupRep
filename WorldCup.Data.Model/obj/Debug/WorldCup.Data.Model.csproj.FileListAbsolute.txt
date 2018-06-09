@@ -1,0 +1,9 @@
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\bin\Debug\WorldCup.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\bin\Debug\WorldCup.Model.pdb
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.csprojAssemblyReference.cache
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.csproj.CopyComplete
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.pdb

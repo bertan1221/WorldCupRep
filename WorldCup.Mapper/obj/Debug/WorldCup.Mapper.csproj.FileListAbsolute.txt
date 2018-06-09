@@ -1,0 +1,11 @@
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\bin\Debug\WorldCup.Mapper.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\bin\Debug\WorldCup.Mapper.pdb
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\bin\Debug\WorldCup.Model.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\bin\Debug\WorldCup.Model.pdb
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\obj\Debug\WorldCup.Mapper.csprojAssemblyReference.cache
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\obj\Debug\WorldCup.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\obj\Debug\WorldCup.Mapper.csproj.CopyComplete
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\obj\Debug\WorldCup.Mapper.dll
+C:\Users\Bertan\source\repos\WorldCup\WorldCup.Mapper\obj\Debug\WorldCup.Mapper.pdb

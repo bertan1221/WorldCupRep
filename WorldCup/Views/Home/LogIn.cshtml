@@ -1,0 +1,18 @@
+﻿@using WorldCup.Extensions
+
+@{
+    ViewBag.Title = "LogIn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="jumbotron > h1" style="color: black; ">
+    @using (Html.BeginForm())
+    {
+        <table id="loginTable">
+            <tr><td>Username:</td><td><input type="text" name="username" /></td></tr>
+            <tr><td>Password:</td><td>@Html.MyColoredPasswordTextBox("red", "password")</td></tr>
+            <tr><td></td><td style="padding-top: 3%;"><input type="submit" value="Log In" /></td></tr>
+        </table>
+    }
+</div>

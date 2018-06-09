@@ -1,0 +1,15 @@
+﻿@if (User.Identity.IsAuthenticated)
+{
+    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+    <li>@Html.ActionLink("Teams", "Index", "Team")</li>
+    <li>@Html.ActionLink("Players", "Index", "Player")</li>
+    <li>@Html.ActionLink("Matches", "Index", "Match")</li>
+    <li>@Html.ActionLink("LogOut", "LogOut", "Home")</li>
+
+}
+else
+{
+    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+    <li>@Html.ActionLink("Log In", "LogIn", "Home")</li>
+}
+

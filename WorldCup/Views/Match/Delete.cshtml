@@ -1,0 +1,49 @@
+﻿@model WorldCup.Model.MatchModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.KickOff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KickOff)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HomeTeamName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HomeTeamName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AwayTeamName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AwayTeamName)
+        </dd>
+
+       
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
